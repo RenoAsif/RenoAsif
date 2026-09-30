@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RenoAsif
+- 👋 Hi, I’m @Rene
 - 👀 I’m interested in patterns
 - 🌱 I’m currently learning Robotics and Automation
 - 💞️ I’m looking to collaborate on ML
