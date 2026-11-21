@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Rene
-- 👀 I’m interested in patterns
-- 🌱 I’m currently learning Robotics and Automation
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me https://www.linkedin.com/in/asif-ali-607213230/
+Robotics and Automation Engineer
+| FANUC & ABB robots, Siemens/Allen-Bradley PLCs, IIoT & ML for industrial automation 
 
 <!---
 RenoAsif/RenoAsif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
